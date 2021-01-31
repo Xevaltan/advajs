@@ -1,0 +1,27 @@
+{
+  "name": "advajs",
+  "version": "1.1.0",
+  "description": "A nodejs plugin adding advanced javascript and nodejs tools",
+  "main": "index.js",
+  "keywords": [
+    "advanced-tool",
+    "tools",
+    "tool",
+    "advance",
+    "nodejs",
+    "vanilla",
+    "vanillajs",
+    "javascript",
+    "vanilla-javascript"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xevaltan",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {}
+}
